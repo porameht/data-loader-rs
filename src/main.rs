@@ -1,4 +1,3 @@
-use polars::prelude::*;
 use loader::load_dataset;
 
 mod loader;
